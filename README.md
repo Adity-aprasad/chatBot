@@ -18,8 +18,8 @@ This repository contains a mobile application built with React Native that featu
 ## Prerequisites
 
 - Node.js (v14 or newer)
-- npm or yarn
-- React Native CLI
+- npm
+- React Native expo
 - Firebase account
 - OpenAI API key
 
